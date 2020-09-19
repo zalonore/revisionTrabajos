@@ -1,0 +1,33 @@
+Nombre: Juan Jose Soto Rosasco (juanjosesoto83)
+Actividad: Taller 1 (Python básico)
+Fecha de envío: miércoles 2 de septiembre de 2020 18H02' COT
+Calificación actual: Necesita calificación
+
+Campo de envío:
+No hay datos de texto de envío de alumnos para esta actividad.
+
+Comentarios:
+No hay comentarios de alumnos para esta actividad.
+
+Archivos:
+	Nombre de archivo original: taller #1 ejercicio 7.py
+	Nombre de archivo: Taller 1 (Python básico)_juanjosesoto83_intento_2020-09-02-18-02-50_taller #1 ejercicio 7.py
+
+	Nombre de archivo original: taller #1 ejercicio 5.py
+	Nombre de archivo: Taller 1 (Python básico)_juanjosesoto83_intento_2020-09-02-18-02-50_taller #1 ejercicio 5.py
+
+	Nombre de archivo original: taller #1 ejercicio 6.py
+	Nombre de archivo: Taller 1 (Python básico)_juanjosesoto83_intento_2020-09-02-18-02-50_taller #1 ejercicio 6.py
+
+	Nombre de archivo original: taller #1 ejercicio 1.py
+	Nombre de archivo: Taller 1 (Python básico)_juanjosesoto83_intento_2020-09-02-18-02-50_taller #1 ejercicio 1.py
+
+	Nombre de archivo original: taller #1 ejercicio 4.py
+	Nombre de archivo: Taller 1 (Python básico)_juanjosesoto83_intento_2020-09-02-18-02-50_taller #1 ejercicio 4.py
+
+	Nombre de archivo original: taller #1 ejercicio 2.py
+	Nombre de archivo: Taller 1 (Python básico)_juanjosesoto83_intento_2020-09-02-18-02-50_taller #1 ejercicio 2.py
+
+	Nombre de archivo original: taller #1 ejercicio 3.py
+	Nombre de archivo: Taller 1 (Python básico)_juanjosesoto83_intento_2020-09-02-18-02-50_taller #1 ejercicio 3.py
+

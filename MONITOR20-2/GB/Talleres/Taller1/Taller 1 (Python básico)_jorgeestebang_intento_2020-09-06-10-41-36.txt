@@ -1,0 +1,33 @@
+Nombre: Jorge Armando Esteban Guevara (jorgeestebang)
+Actividad: Taller 1 (Python básico)
+Fecha de envío: domingo 6 de septiembre de 2020 10H41' COT
+Calificación actual: Necesita calificación
+
+Campo de envío:
+No hay datos de texto de envío de alumnos para esta actividad.
+
+Comentarios:
+No hay comentarios de alumnos para esta actividad.
+
+Archivos:
+	Nombre de archivo original: punto 6 taller.py
+	Nombre de archivo: Taller 1 (Python básico)_jorgeestebang_intento_2020-09-06-10-41-36_punto 6 taller.py
+
+	Nombre de archivo original: punto 7 taller.py
+	Nombre de archivo: Taller 1 (Python básico)_jorgeestebang_intento_2020-09-06-10-41-36_punto 7 taller.py
+
+	Nombre de archivo original: punto 5 taller.py
+	Nombre de archivo: Taller 1 (Python básico)_jorgeestebang_intento_2020-09-06-10-41-36_punto 5 taller.py
+
+	Nombre de archivo original: punto 2 taller.py
+	Nombre de archivo: Taller 1 (Python básico)_jorgeestebang_intento_2020-09-06-10-41-36_punto 2 taller.py
+
+	Nombre de archivo original: punto 4 taller.py
+	Nombre de archivo: Taller 1 (Python básico)_jorgeestebang_intento_2020-09-06-10-41-36_punto 4 taller.py
+
+	Nombre de archivo original: punto 1 taller.py
+	Nombre de archivo: Taller 1 (Python básico)_jorgeestebang_intento_2020-09-06-10-41-36_punto 1 taller.py
+
+	Nombre de archivo original: punto 3 taller.py
+	Nombre de archivo: Taller 1 (Python básico)_jorgeestebang_intento_2020-09-06-10-41-36_punto 3 taller.py
+

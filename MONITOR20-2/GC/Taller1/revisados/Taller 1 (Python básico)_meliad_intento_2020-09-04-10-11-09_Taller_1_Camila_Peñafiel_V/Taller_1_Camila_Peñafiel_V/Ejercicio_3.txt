@@ -1,0 +1,8 @@
+
+print("Ejercicio #3")
+
+radio = eval(input("Digite el radio del círculo:\n"))
+pi = 3.1416
+areaCirculo = round((pi*(radio**2)),3)
+
+print("El área del círculo con radio",radio,"es",areaCirculo)

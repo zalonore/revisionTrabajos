@@ -1,0 +1,11 @@
+print("TALLER # 1")
+print ("PUNTO 6")
+print ("Realice un programa que le pida al usuario que ingrese un número entero de 4 cifras, luego imprima en pantalla el número invertido.")
+numero = input ("Digite su numero : ")
+Numero = numero [::-1]
+print("Su numero original es", numero)
+print("Su numero invertido es", Numero)
+texto = input("Ingresa la palabra : ")
+texto_invertido = ''.join(reversed(texto))
+print("La palabra Original es", texto)
+print ("La palabra invertida es", texto_invertido)

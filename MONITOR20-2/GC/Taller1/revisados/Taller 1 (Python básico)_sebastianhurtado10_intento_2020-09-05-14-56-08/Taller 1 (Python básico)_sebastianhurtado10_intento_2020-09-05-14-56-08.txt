@@ -1,0 +1,35 @@
+Nombre: SEBASTIAN HURTADO BUSTOS (sebastianhurtado10)
+Actividad: Taller 1 (Python básico)
+Fecha de envío: sábado 5 de septiembre de 2020 14H56' COT
+Calificación actual: Necesita calificación
+
+Campo de envío:
+No hay datos de texto de envío de alumnos para esta actividad.
+
+Comentarios:
+Buenas tardes profesor adjunto el taller de programación.
+
+
+
+Archivos:
+	Nombre de archivo original: ejercicio 6.py
+	Nombre de archivo: Taller 1 (Python básico)_sebastianhurtado10_intento_2020-09-05-14-56-08_ejercicio 6.py
+
+	Nombre de archivo original: ejercicio 1.py
+	Nombre de archivo: Taller 1 (Python básico)_sebastianhurtado10_intento_2020-09-05-14-56-08_ejercicio 1.py
+
+	Nombre de archivo original: ejercicio 2.py
+	Nombre de archivo: Taller 1 (Python básico)_sebastianhurtado10_intento_2020-09-05-14-56-08_ejercicio 2.py
+
+	Nombre de archivo original: ejercicio 3.py
+	Nombre de archivo: Taller 1 (Python básico)_sebastianhurtado10_intento_2020-09-05-14-56-08_ejercicio 3.py
+
+	Nombre de archivo original: ejercicio 4.py
+	Nombre de archivo: Taller 1 (Python básico)_sebastianhurtado10_intento_2020-09-05-14-56-08_ejercicio 4.py
+
+	Nombre de archivo original: ejercicio7.py
+	Nombre de archivo: Taller 1 (Python básico)_sebastianhurtado10_intento_2020-09-05-14-56-08_ejercicio7.py
+
+	Nombre de archivo original: ejercicio 5.py
+	Nombre de archivo: Taller 1 (Python básico)_sebastianhurtado10_intento_2020-09-05-14-56-08_ejercicio 5.py
+

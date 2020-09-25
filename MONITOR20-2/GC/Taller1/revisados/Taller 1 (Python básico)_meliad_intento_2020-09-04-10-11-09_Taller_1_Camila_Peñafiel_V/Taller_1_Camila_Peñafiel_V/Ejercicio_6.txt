@@ -1,0 +1,23 @@
+
+print("Ejercicio #6")
+
+num = eval(input("Ingrese un número entero de 4 cifras:\n"))
+primerDigito = num//1000
+segundoDigito = (num//100)%10
+tercerDigito = (num//10)%10
+cuartoDigito = (num//1)%10
+numeroCompleto = str(cuartoDigito)+str(tercerDigito)+str(segundoDigito)+str(primerDigito)
+numeroInvertido = int(numeroCompleto)
+print("El número invertido al ingresar",num,"es",numeroInvertido)
+
+
+#Opcion 2
+print("\n#######Otra Forma#######")
+num = eval(input("Ingrese un número entero de 4 cifras:\n"))
+primerDigito = num%10
+segundoDigito = (num%100)//10
+tercerDigito = (num%1000)//100
+cuartoDigito = (num%10000)//1000
+numeroCompleto = str(primerDigito)+str(segundoDigito)+str(tercerDigito)+str(cuartoDigito)
+numeroInvertido = int(numeroCompleto)
+print("El número invertido al ingresar",num,"es",numeroInvertido)

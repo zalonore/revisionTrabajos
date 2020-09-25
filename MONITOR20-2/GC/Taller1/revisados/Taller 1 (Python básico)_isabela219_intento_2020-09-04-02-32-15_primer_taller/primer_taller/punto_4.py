@@ -1,0 +1,6 @@
+altura = eval(input("ingrese la altura del rectangulo: "))
+base = eval(input("ingrese la base del rectangulo: "))
+area = (base*altura)
+perimetro = ((base*2)+(altura*2))
+print (f"el area del rectangulo es: {area}")
+print (f"el perimetro del rectangulo es: {perimetro}")

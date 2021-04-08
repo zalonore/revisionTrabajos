@@ -1,8 +1,0 @@
-a= int(input("Ingresa el valor del coeficiente A:"))
-b= int(input("Ingresa el valor del coeficiente B:"))
-c= int(input("Ingresa el valor del coeficiente C:"))
-CuadP= -b+(b**2-4*a*c)**(1/2)
-CuadPu= CuadP/(2*a)
-CuadN= -b-(b**2-4*a*c)**(1/2)
-CuadNu= CuadN/(2*a)
-print("el resultado de la cuadrática es:",CuadPu,"y",CuadNu,)

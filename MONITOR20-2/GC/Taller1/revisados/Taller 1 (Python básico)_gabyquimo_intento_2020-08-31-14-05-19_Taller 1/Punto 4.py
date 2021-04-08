@@ -1,5 +1,0 @@
-base = float(input('¿Cuál es la base de la figura? '))
-altura = float(input('¿Cuál es la altura de la figura? '))
-area = (base*altura)
-perimetro = ((base+base)+(altura+altura))
-print ('El área del rectangulo es: ',area,'y el perímetro del rectangulo es: ',perimetro)

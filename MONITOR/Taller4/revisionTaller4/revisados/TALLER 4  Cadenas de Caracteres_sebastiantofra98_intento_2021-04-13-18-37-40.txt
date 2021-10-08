@@ -1,0 +1,23 @@
+Nombre: Sebastian Toro Franco (sebastiantofra98)
+Actividad: TALLER 4: Cadenas de Caracteres
+Fecha de envío: martes 13 de abril de 2021 18H37' COT
+Calificación actual: Necesita calificación
+
+Campo de envío:
+<br> 
+<div id="mouseposition-extension-element-full-container" style="font-weight: 400;"> 
+ <div id="mouseposition-extension-element-rect-display" style="display: none;outline: black solid 1.0px;font-size: 12.0px;cursor: default;color: rgb(0,0,0);font-family: &quot;Helvetica Neue&quot; , Helvetica , Arial , sans-serif;width: 0.0px;height: 0.0px;"> 
+  <pre style="text-align: center;color: rgb(0,0,0);min-width: 42.0px;min-height: 12.0px;"></pre> 
+ </div> 
+ <pre id="mouseposition-extension-element-coordinate-display" style="display: none;background: rgb(255,255,255);font-size: 12.0px;line-height: 14.0px;border-width: 1.0px;border-color: rgb(34,34,34) black rgb(51,51,51);border-style: solid;padding: 3.0px;color: rgb(34,34,34);cursor: default;font-family: &quot;Helvetica Neue&quot; , Helvetica , Arial , sans-serif;"></pre> 
+</div>
+
+Comentarios:
+Esta carpeta contiene las funciones modificadas en su nombre de tal modo que queden como verbos ademas de la documentacion respectiva a cada una.
+
+
+
+Archivos:
+	Nombre de archivo original: Tarea4.rar
+	Nombre de archivo: TALLER 4  Cadenas de Caracteres_sebastiantofra98_intento_2021-04-13-18-37-40_Tarea4.rar
+

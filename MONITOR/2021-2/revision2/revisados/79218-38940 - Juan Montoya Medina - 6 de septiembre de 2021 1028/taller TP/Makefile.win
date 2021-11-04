@@ -1,0 +1,37 @@
+# Project: taller 2 TP
+# Makefile created by Embarcadero Dev-C++ 6.3
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = "Punto\ 1.o" "Punto\ 2.o" "Punto\ 3.o" "Punto\ 4.o"
+LINKOBJ  = "Punto 1.o" "Punto 2.o" "Punto 3.o" "Punto 4.o"
+LIBS     = -L"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/lib" -L"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/x86_64-w64-mingw32/lib" -static-libgcc
+INCS     = -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/include" -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/9.2.0/include"
+CXXINCS  = -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/include" -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/9.2.0/include" -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"
+BIN      = "taller 2 TP.exe"
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+DEL      = C:\Program Files (x86)\Embarcadero\Dev-Cpp\devcpp.exe INTERNAL_DEL
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${DEL} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CC) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+"Punto\ 1.o": Punto\ 1.c
+	$(CC) -c "Punto 1.c" -o "Punto 1.o" $(CFLAGS)
+
+"Punto\ 2.o": Punto\ 2.c
+	$(CC) -c "Punto 2.c" -o "Punto 2.o" $(CFLAGS)
+
+"Punto\ 3.o": Punto\ 3.c
+	$(CC) -c "Punto 3.c" -o "Punto 3.o" $(CFLAGS)
+
+"Punto\ 4.o": Punto\ 4.c
+	$(CC) -c "Punto 4.c" -o "Punto 4.o" $(CFLAGS)

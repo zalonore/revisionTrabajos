@@ -1,0 +1,15 @@
+Nombre: MICHAEL JONATHAN FOX CARRILLO (fox)
+Actividad: TALLER 4: Cadenas de Caracteres
+Fecha de envío: jueves 15 de abril de 2021 00H25' COT
+Calificación actual: Necesita calificación
+
+Campo de envío:
+No hay datos de texto de envío de alumnos para esta actividad.
+
+Comentarios:
+No hay comentarios de alumnos para esta actividad.
+
+Archivos:
+	Nombre de archivo original: tallergonzomenu.c
+	Nombre de archivo: TALLER 4  Cadenas de Caracteres_fox_intento_2021-04-15-00-25-56_tallergonzomenu.c
+

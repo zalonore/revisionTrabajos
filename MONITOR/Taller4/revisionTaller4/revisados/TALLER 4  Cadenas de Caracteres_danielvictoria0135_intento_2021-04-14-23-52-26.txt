@@ -1,0 +1,15 @@
+Nombre: DANIEL VICTORIA FRANCO (danielvictoria0135)
+Actividad: TALLER 4: Cadenas de Caracteres
+Fecha de envío: miércoles 14 de abril de 2021 23H52' COT
+Calificación actual: Necesita calificación
+
+Campo de envío:
+No hay datos de texto de envío de alumnos para esta actividad.
+
+Comentarios:
+Buenas noches profe, el punto de hacer el menú, no deja ingresar ni el texto ni las vocales, pero ahí está, por este motivo puse los 4 puntos con su .exe por separado, el archivo que se llama taller4gonzo.c es el del menú, por si este da puntos adicionales.
+
+Archivos:
+	Nombre de archivo original: Taller4gonzo.zip
+	Nombre de archivo: TALLER 4  Cadenas de Caracteres_danielvictoria0135_intento_2021-04-14-23-52-26_Taller4gonzo.zip
+

@@ -1,0 +1,24 @@
+Nombre: Santiago Restrepo Aguilar (allard)
+Actividad: TALLER 4: Cadenas de Caracteres
+Fecha de envío: miércoles 14 de abril de 2021 17H38' COT
+Calificación actual: Necesita calificación
+
+Campo de envío:
+No hay datos de texto de envío de alumnos para esta actividad.
+
+Comentarios:
+No hay comentarios de alumnos para esta actividad.
+
+Archivos:
+	Nombre de archivo original: cadenas4.c
+	Nombre de archivo: TALLER 4  Cadenas de Caracteres_allard_intento_2021-04-14-17-38-08_cadenas4.c
+
+	Nombre de archivo original: cadenas1.c
+	Nombre de archivo: TALLER 4  Cadenas de Caracteres_allard_intento_2021-04-14-17-38-08_cadenas1.c
+
+	Nombre de archivo original: cadenas2.c
+	Nombre de archivo: TALLER 4  Cadenas de Caracteres_allard_intento_2021-04-14-17-38-08_cadenas2.c
+
+	Nombre de archivo original: cadenas3.c
+	Nombre de archivo: TALLER 4  Cadenas de Caracteres_allard_intento_2021-04-14-17-38-08_cadenas3.c
+
